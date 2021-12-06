@@ -9,7 +9,7 @@ const settings = {
     "frontity": {
       "url": process.env.WORDPRESS_APP_URL,
       "title": "Rosetta",
-      "description": "WordPress installation for Frontity development"
+      "description": "Multilingual Frontity Template"
     }
   },
   "packages": [
