@@ -1,0 +1,43 @@
+{
+  "name": "my-first-frontity-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve",
+    "precommit": "lint-staged",
+    "fmt": "prettier --write './**/*.js'"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@frontity/core": "^1.14.3",
+    "@frontity/html2react": "^1.7.0",
+    "@frontity/mars-theme": "./packages/mars-theme",
+    "@frontity/tiny-router": "^1.4.4",
+    "@frontity/wp-source": "^1.11.7",
+    "dotenv": "^10.0.0",
+    "frontity": "^1.17.1",
+    "prettifier": "^0.4.0",
+    "vercel": "^23.1.2"
+  },
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "lint-staged": "^12.1.2",
+    "prettier": "^2.5.1"
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}
