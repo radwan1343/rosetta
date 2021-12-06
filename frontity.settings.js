@@ -46,7 +46,14 @@ const settings = {
         }
       }
     },
-    "@frontity/tiny-router",
+    {
+    "name": "@frontity/tiny-router",
+    "state": {
+      "router": {
+        "autoFetch": true
+       }
+     }
+    },
     "@frontity/html2react"
   ]
 };
