@@ -32,6 +32,7 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 ### 🧑🏻‍💻 TODO: 
 - RTL
 - Prettier colors
+- Unit Testing
 
 ### 🔗 Helpful Links:
 - [frontity-examples](https://github.com/frontity-demos/frontity-examples)
