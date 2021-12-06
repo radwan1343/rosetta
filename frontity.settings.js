@@ -17,6 +17,7 @@ const settings = {
       "name": "@frontity/mars-theme",
       "state": {
         "theme": {
+          "autoPrefetch": "all",
           "menu": [
             [
               "Home",
@@ -46,14 +47,7 @@ const settings = {
         }
       }
     },
-    {
-    "name": "@frontity/tiny-router",
-    "state": {
-      "router": {
-        "autoFetch": true
-       }
-     }
-    },
+    "@frontity/tiny-router",
     "@frontity/html2react"
   ]
 };
