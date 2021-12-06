@@ -17,6 +17,7 @@ const settings = {
       "name": "@frontity/mars-theme",
       "state": {
         "theme": {
+          "autoPrefetch": "all",
           "menu": [
             [
               "Home",
