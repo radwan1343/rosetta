@@ -2,6 +2,9 @@
 
 In the mission of creating a performant, pretty, and functional Arabic supported theme. This project was bootstrapped with [Frontity](https://frontity.org/).
 
+### Demo
+https://frontity-0xhsn.vercel.app/
+
 ### ⚙️  Launch a development server
 
 ```
@@ -27,7 +30,7 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 > Get more info about [how to deploy](https://docs.frontity.org/deployment) a Frontity project
 
 ### 🧑🏻‍💻 TODO: 
-- LTR
+- RTL
 - Prettier colors
 
 ### 🔗 Helpful Links:
