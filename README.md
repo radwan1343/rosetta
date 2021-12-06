@@ -1,6 +1,6 @@
 # 🌸 Rosetta
 
-In the mission of creating a performant, pretty, and functional Arabic supported theme. This project was bootstrapped with [Frontity](https://frontity.org/).
+In the mission of creating a performant, pretty, and functional Arabic supported theme. Mainly for Wordpress but you can go static/serverless. This project was bootstrapped with [Frontity](https://frontity.org/).
 
 ### Demo
 https://frontity-0xhsn.vercel.app/
