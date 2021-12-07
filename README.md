@@ -31,7 +31,7 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 
 ### 🧑🏻‍💻 TODO: 
 - RTL
-- Prettier colors
+- Tailwind CSS
 - Unit Testing
 - Dark Mode
 
