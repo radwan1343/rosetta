@@ -30,10 +30,10 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 > Get more info about [how to deploy](https://docs.frontity.org/deployment) a Frontity project
 
 ### 🧑🏻‍💻 TODO: 
-- RTL
-- Tailwind CSS
-- Unit Testing
-- Dark Mode
+- [ ] RTL
+- [ ] Tailwind CSS
+- [ ] Unit Testing
+- [ ] Dark Mode
 
 ### 🔗 Helpful Links:
 - [frontity-examples](https://github.com/frontity-demos/frontity-examples)
