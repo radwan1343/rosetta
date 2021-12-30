@@ -37,4 +37,5 @@ Upload your `static` folder to a CDN and your `server.js` file to a serverless s
 
 ### 🔗 Helpful Links:
 - [frontity-examples](https://github.com/frontity-demos/frontity-examples)
-- [tailwindcss-rtl](https://www.npmjs.com/package/tailwindcss-rtl)
+- [twailwind-rtl](https://www.npmjs.com/package/tailwindcss-rtl)
+
